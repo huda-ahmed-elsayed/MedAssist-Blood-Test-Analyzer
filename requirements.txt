@@ -1,0 +1,37 @@
+# Core Libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+joblib
+pickle5
+
+# PDF & Bilingual Support
+reportlab
+fpdf
+arabic-reshaper
+python-bidi
+googletrans==4.0.0-rc1
+PyPDF2
+
+# ML and Preprocessing
+xgboost
+imblearn
+
+# Web Frameworks
+flask
+fastapi
+flask-cors
+uvicorn
+gunicorn
+
+# Google Firebase
+firebase-admin
+
+# Utilities
+pyngrok
+requests
+tabulate
+nest_asyncio
+kagglehub
